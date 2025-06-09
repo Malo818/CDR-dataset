@@ -2,7 +2,8 @@
 
 This is a public dataset for concrete defect recognition. 
 We redefined 12 common concrete surface defects. Here is an example of defects from the dataset.
-![Sample Image](image/sample.jpg)
+![Sample Image](image/sample.png)
+(a) formwork misalignment, (b) formwork deformation, (c) crack, (d) seepage, (e) inclusions, (f) mortar leakage, (g) airhole, (h) pitting surface, (i) voids, (j) honeycombing, (k) missing edge, (l) exposed reinforcement.
 
 
 ## 📁 Dataset Structure
