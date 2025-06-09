@@ -1,0 +1,31 @@
+# CDR-dataset
+# MyDataset
+
+This is a public dataset for [your task, e.g., image classification / semantic segmentation / defect detection].
+
+## 📁 Dataset Structure
+
+The dataset includes:
+
+- `images/`: Original image files
+- `labels/`: Corresponding annotation files
+- `metadata.csv`: Metadata containing label, category, etc.
+
+## 📥 Download
+
+You can download the entire dataset from the following Google Drive link:
+
+🔗 **[Download MyDataset.zip](https://drive.google.com/uc?id=FILE_ID&export=download)**
+
+*(Make sure the link is accessible to anyone)*
+
+> If the above link does not work, try the shared view link:  
+> [https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+
+## 📄 License
+
+This dataset is licensed under [your license, e.g., MIT, CC BY 4.0, etc.]. Please cite this repository if you use the data.
+
+## 📬 Contact
+
+For questions or collaboration: [your email or GitHub]
