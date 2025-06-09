@@ -9,9 +9,12 @@ We redefined 12 common concrete surface defects. Here is an example of defects f
 
 The dataset includes:
 
-- `images/`: Original image files
-- `labels/`: Corresponding annotation files
-- `metadata.csv`: Metadata containing label, category, etc.
+- `Concrete defect recognition/`: Original image files
+-- Airhole/
+--Crack/
+--Exposed reinforcement/
+  ……
+
 
 ## 📥 Download
 
