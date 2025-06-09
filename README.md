@@ -12,13 +12,16 @@ We redefined 12 common concrete surface defects. Here is an example of defects f
 
 ## 📁 Dataset Structure
 
-The dataset includes:
+The dataset includes a main folder:
 
-- `Concrete defect recognition/`: Original image files
--- Airhole/
---Crack/
---Exposed reinforcement/
-  ……
+- `Concrete defect recognition/`
+  
+  This folder contains 12 subfolders, each representing one type of concrete surface defect. Examples include:
+  
+  - `Airhole/`: Contains images of airhole defects.
+  - `Crack/`: Contains images of surface cracks.
+  - ...
+
 
 
 ## 📥 Download
