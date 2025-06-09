@@ -32,8 +32,11 @@ You can download the entire dataset from the following Google Drive link:
 
 ## 📄 License
 
-This dataset is licensed under [your license, e.g., MIT, CC BY 4.0, etc.]. Please cite this repository if you use the data.
+This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.  
+It is provided by the Intelligent Construction Research Team, School of Civil Engineering, Chongqing University.  
+You are free to share and adapt the data, as long as appropriate credit is given.
+Please cite this repository if you use the dataset in your work.
 
 ## 📬 Contact
 
-For questions or collaboration: [your email or GitHub]
+For questions or collaboration: [ysy_wang@stu.cqu.edu.cn]
