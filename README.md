@@ -28,12 +28,7 @@ The dataset includes a main folder:
 
 You can download the entire dataset from the following Google Drive link:
 
-🔗 **[Download MyDataset.zip](https://drive.google.com/uc?id=FILE_ID&export=download)**
-
-*(Make sure the link is accessible to anyone)*
-
-> If the above link does not work, try the shared view link:  
-> [https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+> [https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/drive/folders/1r4qYcK3zl9RNZkgj6owUC03hY2CXiviG?usp=sharing)
 
 ## 📄 License
 
