@@ -2,7 +2,7 @@
 
 This is a public dataset for concrete defect recognition. 
 We redefined 12 common concrete surface defects. Here is an example of defects from the dataset.
-![Sample Image](images/sample.jpg)
+![Sample Image](image/sample.jpg)
 
 
 ## 📁 Dataset Structure
